@@ -1,4 +1,4 @@
-package decimalwrap2
+package decimal_wrap2
 
 import (
 	"fmt"
