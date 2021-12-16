@@ -1,4 +1,4 @@
-module decimal_wrap2
+module github.com/s9256001/decimal_wrap2
 
 go 1.15
 
